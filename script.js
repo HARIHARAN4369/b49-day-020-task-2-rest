@@ -11,6 +11,5 @@ function foo(arr){
     </div>
   </div>`
     document.body.append(div);
-
 }
 } 
